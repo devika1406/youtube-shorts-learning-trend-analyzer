@@ -65,10 +65,15 @@ The cleaned dataset is available in the `data/` folder.
 Below is the high-level structure of the repository:
 
 youtube-shorts-learning-trend-analyzer/
+
 ├── notebooks/ # Python analysis notebooks
+
 ├── data/ # Cleaned dataset
+
 ├── reports/ # Final project report
+
 ├── dashboard/ # Power BI dashboard
+
 └── README.md # Project overview
 
 
